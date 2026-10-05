@@ -5,14 +5,14 @@
 I'm a Computer Science graduate focused on building scalable,
 secure, user-friendly web applications, intelligent systems using software engineering, data science, machine learning, and deep learning.
 
-## 🚀 What I Do
+##  What I Do
 
-* 🌐 Build full-stack web applications
-* 📊 Analyze and visualize data
-* 🤖 Develop Machine Learning models
-* 🧠 Build and experiment with Deep Learning models
-* 🔐 Explore AI and cybersecurity
-* ☁️ Learn cloud and DevOps technologies
+*  Build full-stack web applications
+*  Analyze and visualize data
+*  Develop Machine Learning models
+*  Build and experiment with Deep Learning models
+*  Explore AI and cybersecurity
+*  Learn cloud and DevOps technologies
 
 ### Full-Stack Development
 
@@ -39,29 +39,29 @@ secure, user-friendly web applications, intelligent systems using software engin
 * Docker
 * AWS
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🏠 HomeHire
+###  HomeHire
 
 A MERN-based local home services marketplace connecting customers with service providers.
 
 **Tech:** React.js, Node.js, Express.js, MongoDB
 
-### 🔐 Mscan
+###  Mscan
 
 A security analysis platform designed to identify vulnerabilities in AI-agent and MCP-based applications.
 
 **Tech:** Next.js, TypeScript, Python, Pyre/Pysa, MongoDB
 
-### 🤖 Machine Learning Projects
+###  Machine Learning Projects
 
 Machine learning projects involving data preprocessing, feature engineering, model training, evaluation, and prediction.
 
-### 🧠 Deep Learning Projects
+###  Deep Learning Projects
 
 Experiments and projects involving neural networks and deep learning models.
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 * Machine Learning
 * Deep Learning
@@ -71,7 +71,7 @@ Experiments and projects involving neural networks and deep learning models.
 * AI Security
 * Cloud & DevOps
 
-## 📫 Connect With Me
+##  Connect With Me
 
 * LinkedIn: www.linkedin.com/in/nomanazam-nmk
 * Email: nomanazam474@gmail.com
